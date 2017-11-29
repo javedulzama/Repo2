@@ -15,3 +15,5 @@ this change in remote repository
 5th chnage - robots.txt no-ff-branch
 
 6th change - 3wm branch
+
+7th change - commit history demo
