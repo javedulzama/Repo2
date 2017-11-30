@@ -8,4 +8,4 @@
 
 5th change - rebase demo
 
-6th chnage- rebase demo
+6th change - rebase demo for conflicts
