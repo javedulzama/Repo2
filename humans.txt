@@ -7,3 +7,5 @@ good humans
 2nd change no-ff-branch
 
 3rd change rebase demo
+
+4th change rebase demo for conflicts
